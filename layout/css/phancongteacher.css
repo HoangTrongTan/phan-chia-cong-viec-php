@@ -1,0 +1,19 @@
+.wrapper-them{
+    padding: 20px 0;
+}
+.wrapper-dsclass{
+    position: relative;
+    border: 1px dashed  #FE2759;
+    border-radius: 10px;
+}
+.class-tem{
+    margin: 20px;
+}
+.wrapper-dsclass span{
+    position: absolute;
+    top: -12px;
+    left: 20px;
+    display: inline-block;
+    background-color: #FFF;
+    padding: 0 10px;
+}
